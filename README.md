@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Sergey 👋
 
-<!--
-**SergeyShkryuba/SergeyShkryuba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior Web Developer focused on building modern, responsive, and dynamic user interfaces. I love taking complex problems and turning them into simple and beautiful interface designs.
 
-Here are some ideas to get you started:
+**💻 Tech Stack:**
+* JavaScript (ES6+) / TypeScript
+* HTML5 / CSS3 / SCSS
+* Tailwind CSS
+* Vite
+* Python (for utility scripts and automation)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🔭 Currently Working On:**
+* Deepening my knowledge of TypeScript and advanced frontend architectures.
+* Expanding my portfolio with interactive web applications.
+
+**📫 Let's Connect:**
+* [LinkedIn](#) *(Update with your link)*
+* [Resume](#) *(Update with your link)*
