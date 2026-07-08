@@ -15,5 +15,4 @@ I am a Junior Web Developer focused on building modern, responsive, and dynamic 
 
 **📫 Let's Connect:**
 * [Portfolio Website](https://web-developer-portfolio-fqk5bm6s4-serjshkryuba-7908s-projects.vercel.app/)
-* [LinkedIn](#) *(Update with your link)*
-* [Resume](#) *(Update with your link)*
+* [LinkedIn](https://www.linkedin.com/in/shkryuba-sergey-07532310b/)
